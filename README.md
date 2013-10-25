@@ -5,4 +5,6 @@ Equipe
 ______
 
 - Débora Regina Santana
+- Loren Evelyn Gonçalves	
 - William Bougleux Guimarães de Lima
+
